@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.h5
+*.weights
+5.02 Audio with Python -  advanced.ipynb
