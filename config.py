@@ -13,3 +13,6 @@ oe_pw = '9B12829FC6F041A7'
 
 #mySQL
 mysql_pw = "pw=Thomas2012"
+
+#DeepL
+deepl = 'af3c136f-c1c4-cb2b-1461-3dba3449416e:fx' 
